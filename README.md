@@ -100,8 +100,3 @@ It also provides detailed evaluation with **confusion matrices, accuracy compari
 3. **Confusion Matrix**  
    ![Confusion Matrix](con.png) 
    ---
-   👩‍💻 Author
-
-Sneha Gupta
-📧 Contact: [snehagupta8611@gmail.com]
-🌐 GitHub: : https://github.com/sneha86Gupta
