@@ -35,10 +35,23 @@ It also provides detailed evaluation with **confusion matrices, accuracy compari
 - Python 3.8+  
 
 ### **Libraries & Frameworks**  
-- **Data Handling**: `pandas`, `numpy`  
-- **ML Models**: `scikit-learn`, `xgboost`  
-- **Deep Learning**: `torch`, `transformers (Hugging Face)`  
-- **Visualization**: `matplotlib`, `seaborn`  
+- **Data Handling & Processing**  
+  - `pandas`, `numpy`  
+
+- **Text Preprocessing**  
+  - `nltk` (stopwords, lemmatization, tokenization)  
+  - `re`, `string` (text cleaning)  
+
+- **Classical ML Models**  
+  - `scikit-learn` (`LogisticRegression`, `LinearSVC`, `RandomForestClassifier`, `DecisionTreeClassifier`, `TfidfVectorizer`)  
+  - `xgboost`  
+
+- **Deep Learning (Transformers)**  
+  - `torch` (PyTorch)  
+  - `transformers` (Hugging Face: DistilBERT, tokenizer, scheduler)  
+
+- **Visualization**  
+  - `matplotlib`, `seaborn`  
 
 ---
 ## 🧠 Models Implemented  
