@@ -94,14 +94,12 @@ It also provides detailed evaluation with **confusion matrices, accuracy compari
 
 ## 📈 Visualizations  
 
-1. **Training Loss Curve**  
-   Shows how loss decreases across epochs while training DistilBERT.  
-
-2. **Accuracy Comparison Chart**  
-   Comparison of all ML models vs DistilBERT.  
-
+1. **Training Loss And Accuracy over Epochs**  
+   Shows how loss decreases across epochs while training DistilBERT.
+   (acc.png) 
 3. **Confusion Matrix**  
    Helps visualize misclassifications for FAKE vs REAL news.
+   (con.png)
    ---
    👩‍💻 Author
 
