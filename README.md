@@ -96,10 +96,9 @@ It also provides detailed evaluation with **confusion matrices, accuracy compari
 
 1. **Training Loss And Accuracy over Epochs**  
    Shows how loss decreases across epochs while training DistilBERT.
-   (acc.png) 
+   ![Training Loss And Accuracy over Epochs](acc.png)   
 3. **Confusion Matrix**  
-   Helps visualize misclassifications for FAKE vs REAL news.
-   (con.png)
+   ![Confusion Matrix](con.png) 
    ---
    👩‍💻 Author
 
